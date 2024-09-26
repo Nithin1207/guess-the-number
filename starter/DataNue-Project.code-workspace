@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../DataNue-Project"
+		},
+		{
+			"path": "../../Testing elements"
+		},
+		{
+			"path": "../../Final-Project"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DataNue-Project"
+	}
+}
